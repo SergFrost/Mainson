@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Доброо пожаловать на сайт проекта
 
 You can use the [editor on GitHub](https://github.com/SergFrost/mainson-remake/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
